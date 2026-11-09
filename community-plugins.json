@@ -71188,5 +71188,12 @@
     "author": "Andrey Pankov",
     "description": "Shows a site icon ahead of external links to common websites. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "apankov/obsidian-link-head-icon-plugin"
+  },
+  {
+    "id": "weekly-task-calendar",
+    "name": "Weekly Task Calendar",
+    "author": "Davso20K",
+    "description": "Fill your weekly tasks and hours from a calendar: click a day, and everything is written into your Markdown task file.",
+    "repo": "Davso20K/obsidian-weekly-task-calendar"
   }
 ]
